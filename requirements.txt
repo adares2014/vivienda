@@ -1,5 +1,6 @@
 streamlit
-python-dotenv
 openai
 pandas
+python-dotenv
 azure-storage-blob
+python-docx
